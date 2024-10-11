@@ -1,5 +1,7 @@
 # bloger
 
+deployed link: http://127.0.0.1:5502/bloger/02-Challenge/Assets/index.html
+
 ![License](https://img.shields.io/badge/license-None-blue.svg)
 
 ## Description
